@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-st.title("Perhitungan Sudut Theta (Versi Web)")
+st.title("Perhitungan Sudut Theta")
 
 # ===================== INPUT =====================
 
